@@ -1,7 +1,7 @@
 # PyRecruiter
 
 
-![logo](<img src= "Images/ssdada.PNG" width = 500>)
+![logo]("Images/ssdada.PNG")
 
 
 ## What is PyRecruiter?
