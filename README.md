@@ -1,7 +1,7 @@
 # PyRecruiter
 
 
-![logo]("Images/ssdada.PNG")
+![logo](Images/ssdada.PNG)
 
 
 ## What is PyRecruiter?
